@@ -14,7 +14,6 @@ This application was developed as part of the GCGO (Global Challenges and Global
 - **Generate Reports**: Create attendance reports showing attendance percentages for each student
 - **SQL Database**: Store attendance data in a SQLite database for robust data management
 
-End
-
+End. 
 
 
