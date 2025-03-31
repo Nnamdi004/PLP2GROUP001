@@ -1,4 +1,4 @@
- Class Attendance Marking System
+Our Class Attendance Marking System
 
 A terminal-based Python application designed to efficiently track student attendance using a SQLite database.
 
